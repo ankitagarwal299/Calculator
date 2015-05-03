@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">ADVANCED</string>
+
+    <string name="title_activity_advanced">advancedActivity</string>
+    <string name="title_activity_advanced_calculation">advancedCalculation</string>
+</resources>
